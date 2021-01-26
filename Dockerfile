@@ -1,0 +1,4 @@
+FROM mysql
+
+ENV MYSQL_DATABASE learning_spring_batch
+ENV MYSQL_ROOT_PASSWORD password
